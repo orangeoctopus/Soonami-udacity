@@ -33,7 +33,7 @@ public class Event {
     public final int tsunamiAlert;
 
     /**
-     * Constructs a new {@link Event}.
+     * Constructs a new {@link Event}.test
      *
      * @param eventTitle is the title of the earthquake event
      * @param eventTime is the time the earhtquake happened
